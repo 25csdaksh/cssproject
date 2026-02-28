@@ -5,11 +5,11 @@
 }
 
 .skip-link:focus {
-    left: 10px;
-    top: 10px;
+    left: 20px;
+    top: 20px;
     background: black;
     color: white;
-    padding: 8px;
+    padding: 16px;
 }
 
 /* Commented li styling */
@@ -52,4 +52,5 @@ nav img {
     background: #ddd;
     padding: 20px;
     margin: 10px;
+
 }
